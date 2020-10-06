@@ -4,7 +4,7 @@ class firstProgram {
     //Program starts with a call to main function
     public static void main(String[] args) {
         //println is an in-built function in System class
-        System.out.println("Hello, World!"); 
+        System.out.println("Hello, World!");  
     }
 }
 /*How to run Java program:
